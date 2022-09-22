@@ -1,10 +1,6 @@
-# React Sample
+# React Hook for me
 
-[![GitHub stars](https://img.shields.io/github/stars/raminr77/react_sample?style=social)](https://github.com/raminr77/react_sample/)
-
-## Start your React Project with a ready config!
-
-this is a sample of the ReactJs project for starting easily and fast.
+this is a hook sample of the ReactJs project for me.
 <br/>
 In this project, we added some configs and installed some necessary packages. they help you to ready very fast and don't waste time them.
 <br />
